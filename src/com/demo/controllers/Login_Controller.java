@@ -22,7 +22,7 @@ public class Login_Controller {
 		return "login";
 	}
 	
-	@RequestMapping(value="/login2" , method=RequestMethod.GET)
+	@RequestMapping(value="/login23" , method=RequestMethod.GET)
 	public String loadloginpage2()
 	{
 		return "login2";
